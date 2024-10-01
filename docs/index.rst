@@ -70,7 +70,7 @@ Mission Statement
     physics/montecarlo/index
     physics/plasma
     physics/old_physics/index
-    
+    physics/tardisgamma/index
 
 .. toctree::
     :maxdepth: 2
