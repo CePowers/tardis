@@ -4,4 +4,4 @@ Tardis :math:`\gamma`
 
 
 .. toctree::
-    gammaraypacketinitialization
+    packetinitialization
